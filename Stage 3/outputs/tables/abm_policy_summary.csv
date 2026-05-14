@@ -1,0 +1,13 @@
+policy,scenario,final_employment_pct,trough_employment_pct,trough_quarter,trough_year,recovery_ppts,description
+US Baseline,Conservative,97.25,97.25,48,12.0,0.0,"Low support, market-driven adjustment"
+Denmark,Conservative,99.02,98.97,36,9.0,0.05,Flexicurity: generous UI + active reskilling
+Germany,Conservative,98.98,98.96,46,11.5,0.02,Short-time work + medium active support
+Singapore,Conservative,98.72,98.72,48,12.0,0.0,SkillsFuture: proactive reskilling credits
+US Baseline,Moderate,95.27,95.27,48,12.0,0.0,"Low support, market-driven adjustment"
+Denmark,Moderate,98.36,98.28,35,8.8,0.08,Flexicurity: generous UI + active reskilling
+Germany,Moderate,98.21,98.2,47,11.8,0.01,Short-time work + medium active support
+Singapore,Moderate,97.89,97.82,44,11.0,0.07,SkillsFuture: proactive reskilling credits
+US Baseline,Aggressive,92.01,92.01,48,12.0,0.0,"Low support, market-driven adjustment"
+Denmark,Aggressive,97.19,97.1,37,9.2,0.09,Flexicurity: generous UI + active reskilling
+Germany,Aggressive,97.01,96.89,44,11.0,0.12,Short-time work + medium active support
+Singapore,Aggressive,96.13,96.08,46,11.5,0.04,SkillsFuture: proactive reskilling credits

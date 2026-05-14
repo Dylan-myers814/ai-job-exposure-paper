@@ -1,0 +1,38 @@
+SCENARIO CALIBRATION — EMPIRICAL BASIS
+================================================================
+Multipliers are calibrated to measured AI capability growth rates
+from three independent empirical sources:
+
+LLM COGNITIVE CAPABILITY (routine_cognitive, creative_adaptive):
+  Source: METR (2025) 'Measuring AI Ability to Complete Long Tasks'
+  Finding: AI task-completion time horizon doubling every ~7 months
+           since 2019. Text-related task success rates projected
+           80-95% by 2029 (Crashing Waves et al. 2026).
+  Conservative x1.20: ~3-4 doublings from 2023 baseline (2026-27)
+  Moderate    x1.45: ~6-8 doublings from 2023 baseline (2028-30)
+  Aggressive  x1.80: continued exponential growth (2031-35)
+
+COST REDUCTION / ADOPTION (amplifies all cognitive multipliers):
+  Source: Stanford AI Index 2025 (HAI)
+  Finding: GPT-3.5-level inference costs fell 280x in 18 months.
+           Training compute doubles every 5 months. Hardware costs
+           decline 30% annually. Lower costs drive broader adoption
+           of AI against routine cognitive tasks.
+
+PHYSICAL TASK PENETRATION (physical_manual):
+  Source: Stanford AI Index 2026; Figure AI BMW deployment data
+  Finding: Real-world physical task success rate reached 77.3% for
+           structured industrial tasks but only 12% for unstructured
+           household tasks. Figure AI robots 4x faster and 7x more
+           accurate in production deployments.
+  Conservative x0.98: minimal robotics penetration of occupations
+  Moderate    x0.95: selective industrial automation
+  Aggressive  x0.88: meaningful but incomplete physical penetration
+
+CITATION NOTE:
+  Kwa et al. (2025). Measuring AI Ability to Complete Long Tasks.
+    METR. arxiv.org/abs/2503.14499
+  Stanford HAI (2025). AI Index Report 2025. hai.stanford.edu
+  Stanford HAI (2026). AI Index Report 2026. hai.stanford.edu
+  Crashing Waves vs Rising Tides (2026). arxiv.org/abs/2604.01363
+================================================================

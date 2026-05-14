@@ -1,0 +1,577 @@
+scenario,policy,quarter,year,employment_rate,employed,displaced,reskilling,transitioned
+Conservative,US Baseline,1,0.25,99.992,49996,4,0,0
+Conservative,US Baseline,2,0.5,99.97,49985,15,0,0
+Conservative,US Baseline,3,0.75,99.958,49979,21,0,0
+Conservative,US Baseline,4,1.0,99.92999999999999,49965,34,1,0
+Conservative,US Baseline,5,1.25,99.89,49945,53,2,0
+Conservative,US Baseline,6,1.5,99.846,49922,75,2,1
+Conservative,US Baseline,7,1.75,99.802,49899,95,4,2
+Conservative,US Baseline,8,2.0,99.752,49873,118,6,3
+Conservative,US Baseline,9,2.25,99.67200000000001,49830,159,5,6
+Conservative,US Baseline,10,2.5,99.60799999999999,49797,187,9,7
+Conservative,US Baseline,11,2.75,99.524,49752,226,12,10
+Conservative,US Baseline,12,3.0,99.44800000000001,49713,261,15,11
+Conservative,US Baseline,13,3.25,99.374,49670,302,11,17
+Conservative,US Baseline,14,3.5,99.29599999999999,49627,338,14,21
+Conservative,US Baseline,15,3.75,99.222,49585,368,21,26
+Conservative,US Baseline,16,4.0,99.142,49541,399,30,30
+Conservative,US Baseline,17,4.25,99.06,49494,444,26,36
+Conservative,US Baseline,18,4.5,98.956,49431,492,30,47
+Conservative,US Baseline,19,4.75,98.854,49372,539,34,55
+Conservative,US Baseline,20,5.0,98.758,49313,588,33,66
+Conservative,US Baseline,21,5.25,98.652,49246,642,32,80
+Conservative,US Baseline,22,5.5,98.59,49204,669,36,91
+Conservative,US Baseline,23,5.75,98.488,49143,715,41,101
+Conservative,US Baseline,24,6.0,98.386,49082,759,48,111
+Conservative,US Baseline,25,6.25,98.29599999999999,49024,795,57,124
+Conservative,US Baseline,26,6.5,98.22,48970,833,57,140
+Conservative,US Baseline,27,6.75,98.176,48922,862,50,166
+Conservative,US Baseline,28,7.0,98.114,48876,888,55,181
+Conservative,US Baseline,29,7.25,98.048,48826,913,63,198
+Conservative,US Baseline,30,7.5,97.966,48769,945,72,214
+Conservative,US Baseline,31,7.75,97.932,48731,952,82,235
+Conservative,US Baseline,32,8.0,97.86200000000001,48673,983,86,258
+Conservative,US Baseline,33,8.25,97.87,48643,990,75,292
+Conservative,US Baseline,34,8.5,97.842,48600,1011,68,321
+Conservative,US Baseline,35,8.75,97.788,48546,1037,69,348
+Conservative,US Baseline,36,9.0,97.72999999999999,48491,1070,65,374
+Conservative,US Baseline,37,9.25,97.71600000000001,48466,1062,80,392
+Conservative,US Baseline,38,9.5,97.666,48425,1081,86,408
+Conservative,US Baseline,39,9.75,97.596,48362,1128,74,436
+Conservative,US Baseline,40,10.0,97.516,48301,1162,80,457
+Conservative,US Baseline,41,10.25,97.48599999999999,48256,1188,69,487
+Conservative,US Baseline,42,10.5,97.44,48203,1212,68,517
+Conservative,US Baseline,43,10.75,97.402,48175,1208,91,526
+Conservative,US Baseline,44,11.0,97.37400000000001,48138,1223,90,549
+Conservative,US Baseline,45,11.25,97.346,48088,1245,82,585
+Conservative,US Baseline,46,11.5,97.276,48031,1277,85,607
+Conservative,US Baseline,47,11.75,97.26599999999999,47997,1277,90,636
+Conservative,US Baseline,48,12.0,97.25,47972,1290,85,653
+Conservative,Denmark,1,0.25,99.996,49998,2,0,0
+Conservative,Denmark,2,0.5,99.984,49992,8,0,0
+Conservative,Denmark,3,0.75,99.966,49983,17,0,0
+Conservative,Denmark,4,1.0,99.942,49971,29,0,0
+Conservative,Denmark,5,1.25,99.91799999999999,49959,39,2,0
+Conservative,Denmark,6,1.5,99.88,49940,57,3,0
+Conservative,Denmark,7,1.75,99.848,49924,65,11,0
+Conservative,Denmark,8,2.0,99.79400000000001,49894,87,16,3
+Conservative,Denmark,9,2.25,99.77000000000001,49878,94,21,7
+Conservative,Denmark,10,2.5,99.736,49854,113,19,14
+Conservative,Denmark,11,2.75,99.688,49826,132,24,18
+Conservative,Denmark,12,3.0,99.658,49805,145,26,24
+Conservative,Denmark,13,3.25,99.6,49763,171,29,37
+Conservative,Denmark,14,3.5,99.532,49726,185,49,40
+Conservative,Denmark,15,3.75,99.47,49684,212,53,51
+Conservative,Denmark,16,4.0,99.426,49647,225,62,66
+Conservative,Denmark,17,4.25,99.382,49607,244,65,84
+Conservative,Denmark,18,4.5,99.344,49566,247,81,106
+Conservative,Denmark,19,4.75,99.286,49523,266,91,120
+Conservative,Denmark,20,5.0,99.252,49480,279,95,146
+Conservative,Denmark,21,5.25,99.182,49413,316,93,178
+Conservative,Denmark,22,5.5,99.17399999999999,49378,320,93,209
+Conservative,Denmark,23,5.75,99.134,49327,340,93,240
+Conservative,Denmark,24,6.0,99.104,49284,346,102,268
+Conservative,Denmark,25,6.25,99.084,49248,338,120,294
+Conservative,Denmark,26,6.5,99.078,49215,325,136,324
+Conservative,Denmark,27,6.75,99.07000000000001,49174,316,149,361
+Conservative,Denmark,28,7.0,99.142,49156,298,131,415
+Conservative,Denmark,29,7.25,99.17,49120,298,117,465
+Conservative,Denmark,30,7.5,99.18400000000001,49078,306,102,514
+Conservative,Denmark,31,7.75,99.156,49030,322,100,548
+Conservative,Denmark,32,8.0,99.118,48982,341,100,577
+Conservative,Denmark,33,8.25,99.10799999999999,48943,344,102,611
+Conservative,Denmark,34,8.5,99.064,48891,366,102,641
+Conservative,Denmark,35,8.75,98.99799999999999,48825,386,115,674
+Conservative,Denmark,36,9.0,98.966,48776,391,126,707
+Conservative,Denmark,37,9.25,98.988,48749,367,139,745
+Conservative,Denmark,38,9.5,99.00999999999999,48724,361,134,781
+Conservative,Denmark,39,9.75,99.024,48683,373,115,829
+Conservative,Denmark,40,10.0,99.032,48651,366,118,865
+Conservative,Denmark,41,10.25,99.05199999999999,48627,345,129,899
+Conservative,Denmark,42,10.5,99.09400000000001,48610,334,119,937
+Conservative,Denmark,43,10.75,99.07000000000001,48567,349,116,968
+Conservative,Denmark,44,11.0,99.062,48525,354,115,1006
+Conservative,Denmark,45,11.25,99.046,48488,352,125,1035
+Conservative,Denmark,46,11.5,99.034,48449,364,119,1068
+Conservative,Denmark,47,11.75,99.03999999999999,48408,360,120,1112
+Conservative,Denmark,48,12.0,99.018,48364,375,116,1145
+Conservative,Germany,1,0.25,99.996,49998,2,0,0
+Conservative,Germany,2,0.5,99.988,49994,6,0,0
+Conservative,Germany,3,0.75,99.97200000000001,49986,13,1,0
+Conservative,Germany,4,1.0,99.966,49983,16,1,0
+Conservative,Germany,5,1.25,99.95,49974,24,1,1
+Conservative,Germany,6,1.5,99.914,49956,42,1,1
+Conservative,Germany,7,1.75,99.88,49938,58,2,2
+Conservative,Germany,8,2.0,99.82600000000001,49911,81,6,2
+Conservative,Germany,9,2.25,99.798,49896,89,12,3
+Conservative,Germany,10,2.5,99.766,49877,99,18,6
+Conservative,Germany,11,2.75,99.74199999999999,49861,110,19,10
+Conservative,Germany,12,3.0,99.70599999999999,49836,127,20,17
+Conservative,Germany,13,3.25,99.68,49812,145,15,28
+Conservative,Germany,14,3.5,99.66199999999999,49796,157,12,35
+Conservative,Germany,15,3.75,99.614,49769,174,19,38
+Conservative,Germany,16,4.0,99.542,49729,200,29,42
+Conservative,Germany,17,4.25,99.502,49702,219,30,49
+Conservative,Germany,18,4.5,99.47200000000001,49676,229,35,60
+Conservative,Germany,19,4.75,99.44800000000001,49653,238,38,71
+Conservative,Germany,20,5.0,99.408,49619,256,40,85
+Conservative,Germany,21,5.25,99.33999999999999,49578,278,52,92
+Conservative,Germany,22,5.5,99.32,49552,284,56,108
+Conservative,Germany,23,5.75,99.292,49515,300,54,131
+Conservative,Germany,24,6.0,99.264,49485,314,54,147
+Conservative,Germany,25,6.25,99.22800000000001,49450,330,56,164
+Conservative,Germany,26,6.5,99.21600000000001,49426,341,51,182
+Conservative,Germany,27,6.75,99.21,49405,341,54,200
+Conservative,Germany,28,7.0,99.17399999999999,49375,355,58,212
+Conservative,Germany,29,7.25,99.166,49352,358,59,231
+Conservative,Germany,30,7.5,99.156,49327,359,63,251
+Conservative,Germany,31,7.75,99.11,49283,388,57,272
+Conservative,Germany,32,8.0,99.112,49258,387,57,298
+Conservative,Germany,33,8.25,99.092,49230,400,54,316
+Conservative,Germany,34,8.5,99.086,49211,402,55,332
+Conservative,Germany,35,8.75,99.026,49169,424,63,344
+Conservative,Germany,36,9.0,99.02,49146,422,68,364
+Conservative,Germany,37,9.25,99.014,49119,427,66,388
+Conservative,Germany,38,9.5,99.006,49097,423,74,406
+Conservative,Germany,39,9.75,99.00999999999999,49080,414,81,425
+Conservative,Germany,40,10.0,99.00999999999999,49051,419,76,454
+Conservative,Germany,41,10.25,98.99,49023,429,76,472
+Conservative,Germany,42,10.5,98.99799999999999,49003,430,71,496
+Conservative,Germany,43,10.75,98.996,48980,427,75,518
+Conservative,Germany,44,11.0,98.982,48949,435,74,542
+Conservative,Germany,45,11.25,98.99,48928,424,81,567
+Conservative,Germany,46,11.5,98.956,48893,436,86,585
+Conservative,Germany,47,11.75,98.98,48871,433,77,619
+Conservative,Germany,48,12.0,98.978,48843,439,72,646
+Conservative,Singapore,1,0.25,99.996,49998,2,0,0
+Conservative,Singapore,2,0.5,99.984,49992,8,0,0
+Conservative,Singapore,3,0.75,99.966,49983,17,0,0
+Conservative,Singapore,4,1.0,99.942,49971,29,0,0
+Conservative,Singapore,5,1.25,99.91799999999999,49959,39,2,0
+Conservative,Singapore,6,1.5,99.88,49940,57,3,0
+Conservative,Singapore,7,1.75,99.83800000000001,49919,72,9,0
+Conservative,Singapore,8,2.0,99.79599999999999,49895,91,11,3
+Conservative,Singapore,9,2.25,99.746,49867,111,16,6
+Conservative,Singapore,10,2.5,99.694,49835,139,14,12
+Conservative,Singapore,11,2.75,99.642,49804,162,17,17
+Conservative,Singapore,12,3.0,99.58399999999999,49772,186,22,20
+Conservative,Singapore,13,3.25,99.528,49737,204,32,27
+Conservative,Singapore,14,3.5,99.49799999999999,49712,215,36,37
+Conservative,Singapore,15,3.75,99.414,49662,246,47,45
+Conservative,Singapore,16,4.0,99.356,49619,273,49,59
+Conservative,Singapore,17,4.25,99.304,49581,289,59,71
+Conservative,Singapore,18,4.5,99.268,49546,305,61,88
+Conservative,Singapore,19,4.75,99.21600000000001,49500,327,65,108
+Conservative,Singapore,20,5.0,99.17399999999999,49459,343,70,128
+Conservative,Singapore,21,5.25,99.072,49385,387,77,151
+Conservative,Singapore,22,5.5,99.034,49343,393,90,174
+Conservative,Singapore,23,5.75,99.0,49295,410,90,205
+Conservative,Singapore,24,6.0,98.99799999999999,49263,405,96,236
+Conservative,Singapore,25,6.25,98.98400000000001,49231,404,104,261
+Conservative,Singapore,26,6.5,98.97399999999999,49189,414,99,298
+Conservative,Singapore,27,6.75,98.936,49139,437,95,329
+Conservative,Singapore,28,7.0,98.91799999999999,49100,431,110,359
+Conservative,Singapore,29,7.25,98.914,49063,437,106,394
+Conservative,Singapore,30,7.5,98.88,49015,450,110,425
+Conservative,Singapore,31,7.75,98.846,48970,466,111,453
+Conservative,Singapore,32,8.0,98.83999999999999,48928,472,108,492
+Conservative,Singapore,33,8.25,98.856,48901,465,107,527
+Conservative,Singapore,34,8.5,98.82600000000001,48853,489,98,560
+Conservative,Singapore,35,8.75,98.81400000000001,48813,501,92,594
+Conservative,Singapore,36,9.0,98.776,48771,516,96,617
+Conservative,Singapore,37,9.25,98.774,48741,504,109,646
+Conservative,Singapore,38,9.5,98.776,48706,507,105,682
+Conservative,Singapore,39,9.75,98.79400000000001,48679,502,101,718
+Conservative,Singapore,40,10.0,98.778,48644,496,115,745
+Conservative,Singapore,41,10.25,98.72999999999999,48590,510,125,775
+Conservative,Singapore,42,10.5,98.77,48570,494,121,815
+Conservative,Singapore,43,10.75,98.788,48541,495,111,853
+Conservative,Singapore,44,11.0,98.78,48506,497,113,884
+Conservative,Singapore,45,11.25,98.792,48474,501,103,922
+Conservative,Singapore,46,11.5,98.738,48420,529,102,949
+Conservative,Singapore,47,11.75,98.74000000000001,48399,528,102,971
+Conservative,Singapore,48,12.0,98.722,48365,534,105,996
+Moderate,US Baseline,1,0.25,99.99,49995,5,0,0
+Moderate,US Baseline,2,0.5,99.97200000000001,49986,14,0,0
+Moderate,US Baseline,3,0.75,99.946,49973,27,0,0
+Moderate,US Baseline,4,1.0,99.908,49954,45,1,0
+Moderate,US Baseline,5,1.25,99.842,49921,77,2,0
+Moderate,US Baseline,6,1.5,99.76,49880,118,2,0
+Moderate,US Baseline,7,1.75,99.654,49825,172,1,2
+Moderate,US Baseline,8,2.0,99.53999999999999,49768,226,4,2
+Moderate,US Baseline,9,2.25,99.424,49709,284,4,3
+Moderate,US Baseline,10,2.5,99.328,49659,325,11,5
+Moderate,US Baseline,11,2.75,99.20400000000001,49597,379,19,5
+Moderate,US Baseline,12,3.0,99.044,49510,460,18,12
+Moderate,US Baseline,13,3.25,98.916,49440,517,25,18
+Moderate,US Baseline,14,3.5,98.78,49366,580,30,24
+Moderate,US Baseline,15,3.75,98.654,49293,638,35,34
+Moderate,US Baseline,16,4.0,98.49,49200,718,37,45
+Moderate,US Baseline,17,4.25,98.35199999999999,49120,776,48,56
+Moderate,US Baseline,18,4.5,98.198,49025,857,44,74
+Moderate,US Baseline,19,4.75,98.046,48929,931,46,94
+Moderate,US Baseline,20,5.0,97.84,48817,1013,67,103
+Moderate,US Baseline,21,5.25,97.654,48702,1107,66,125
+Moderate,US Baseline,22,5.5,97.52,48616,1165,75,144
+Moderate,US Baseline,23,5.75,97.378,48520,1243,68,169
+Moderate,US Baseline,24,6.0,97.208,48408,1328,68,196
+Moderate,US Baseline,25,6.25,97.044,48299,1403,75,223
+Moderate,US Baseline,26,6.5,96.902,48206,1465,84,245
+Moderate,US Baseline,27,6.75,96.736,48103,1526,106,265
+Moderate,US Baseline,28,7.0,96.66,48026,1568,102,304
+Moderate,US Baseline,29,7.25,96.574,47941,1618,95,346
+Moderate,US Baseline,30,7.5,96.45,47844,1678,97,381
+Moderate,US Baseline,31,7.75,96.342,47762,1720,109,409
+Moderate,US Baseline,32,8.0,96.222,47674,1780,109,437
+Moderate,US Baseline,33,8.25,96.17599999999999,47613,1792,120,475
+Moderate,US Baseline,34,8.5,96.044,47513,1851,127,509
+Moderate,US Baseline,35,8.75,95.96000000000001,47428,1897,123,552
+Moderate,US Baseline,36,9.0,95.87599999999999,47345,1945,117,593
+Moderate,US Baseline,37,9.25,95.866,47289,1952,115,644
+Moderate,US Baseline,38,9.5,95.818,47220,1988,103,689
+Moderate,US Baseline,39,9.75,95.72800000000001,47147,2008,128,717
+Moderate,US Baseline,40,10.0,95.662,47085,2025,144,746
+Moderate,US Baseline,41,10.25,95.614,47003,2049,144,804
+Moderate,US Baseline,42,10.5,95.568,46940,2049,167,844
+Moderate,US Baseline,43,10.75,95.5,46863,2087,163,887
+Moderate,US Baseline,44,11.0,95.41,46762,2132,163,943
+Moderate,US Baseline,45,11.25,95.348,46682,2158,168,992
+Moderate,US Baseline,46,11.5,95.30999999999999,46603,2184,161,1052
+Moderate,US Baseline,47,11.75,95.324,46554,2182,156,1108
+Moderate,US Baseline,48,12.0,95.272,46474,2216,148,1162
+Moderate,Denmark,1,0.25,99.992,49996,4,0,0
+Moderate,Denmark,2,0.5,99.966,49983,16,1,0
+Moderate,Denmark,3,0.75,99.94800000000001,49974,24,2,0
+Moderate,Denmark,4,1.0,99.90400000000001,49951,42,6,1
+Moderate,Denmark,5,1.25,99.864,49931,52,16,1
+Moderate,Denmark,6,1.5,99.78200000000001,49888,90,19,3
+Moderate,Denmark,7,1.75,99.726,49855,120,17,8
+Moderate,Denmark,8,2.0,99.654,49811,148,25,16
+Moderate,Denmark,9,2.25,99.578,49771,169,42,18
+Moderate,Denmark,10,2.5,99.508,49722,189,57,32
+Moderate,Denmark,11,2.75,99.41799999999999,49668,222,69,41
+Moderate,Denmark,12,3.0,99.36399999999999,49616,246,72,66
+Moderate,Denmark,13,3.25,99.286,49555,275,82,88
+Moderate,Denmark,14,3.5,99.232,49498,295,89,118
+Moderate,Denmark,15,3.75,99.134,49424,330,103,143
+Moderate,Denmark,16,4.0,99.044,49354,368,110,168
+Moderate,Denmark,17,4.25,98.97399999999999,49281,387,126,206
+Moderate,Denmark,18,4.5,98.914,49213,396,147,244
+Moderate,Denmark,19,4.75,98.888,49154,406,150,290
+Moderate,Denmark,20,5.0,98.834,49075,436,147,342
+Moderate,Denmark,21,5.25,98.746,48978,487,140,395
+Moderate,Denmark,22,5.5,98.70400000000001,48908,498,150,444
+Moderate,Denmark,23,5.75,98.634,48835,524,159,482
+Moderate,Denmark,24,6.0,98.566,48757,556,161,526
+Moderate,Denmark,25,6.25,98.55000000000001,48692,562,163,583
+Moderate,Denmark,26,6.5,98.478,48613,558,203,626
+Moderate,Denmark,27,6.75,98.496,48557,558,194,691
+Moderate,Denmark,28,7.0,98.526,48501,567,170,762
+Moderate,Denmark,29,7.25,98.48599999999999,48418,581,176,825
+Moderate,Denmark,30,7.5,98.412,48341,599,195,865
+Moderate,Denmark,31,7.75,98.39,48268,604,201,927
+Moderate,Denmark,32,8.0,98.346,48182,617,210,991
+Moderate,Denmark,33,8.25,98.356,48126,614,208,1052
+Moderate,Denmark,34,8.5,98.332,48055,619,215,1111
+Moderate,Denmark,35,8.75,98.282,47962,657,202,1179
+Moderate,Denmark,36,9.0,98.294,47900,647,206,1247
+Moderate,Denmark,37,9.25,98.322,47854,625,214,1307
+Moderate,Denmark,38,9.5,98.294,47783,628,225,1364
+Moderate,Denmark,39,9.75,98.328,47738,596,240,1426
+Moderate,Denmark,40,10.0,98.334,47675,598,235,1492
+Moderate,Denmark,41,10.25,98.344,47602,602,226,1570
+Moderate,Denmark,42,10.5,98.346,47538,611,216,1635
+Moderate,Denmark,43,10.75,98.356,47466,618,204,1712
+Moderate,Denmark,44,11.0,98.332,47401,612,222,1765
+Moderate,Denmark,45,11.25,98.368,47356,606,210,1828
+Moderate,Denmark,46,11.5,98.328,47275,615,221,1889
+Moderate,Denmark,47,11.75,98.36200000000001,47222,610,209,1959
+Moderate,Denmark,48,12.0,98.358,47158,615,206,2021
+Moderate,Germany,1,0.25,99.992,49996,4,0,0
+Moderate,Germany,2,0.5,99.97399999999999,49987,13,0,0
+Moderate,Germany,3,0.75,99.958,49979,20,1,0
+Moderate,Germany,4,1.0,99.932,49966,32,2,0
+Moderate,Germany,5,1.25,99.9,49950,48,2,0
+Moderate,Germany,6,1.5,99.85000000000001,49925,68,7,0
+Moderate,Germany,7,1.75,99.82,49909,79,11,1
+Moderate,Germany,8,2.0,99.76,49875,109,11,5
+Moderate,Germany,9,2.25,99.696,49839,140,12,9
+Moderate,Germany,10,2.5,99.658,49814,154,17,15
+Moderate,Germany,11,2.75,99.586,49775,186,21,18
+Moderate,Germany,12,3.0,99.536,49744,209,23,24
+Moderate,Germany,13,3.25,99.48,49706,236,24,34
+Moderate,Germany,14,3.5,99.404,49663,262,36,39
+Moderate,Germany,15,3.75,99.316,49609,309,33,49
+Moderate,Germany,16,4.0,99.236,49555,343,39,63
+Moderate,Germany,17,4.25,99.134,49489,390,43,78
+Moderate,Germany,18,4.5,99.042,49431,424,55,90
+Moderate,Germany,19,4.75,98.962,49375,450,69,106
+Moderate,Germany,20,5.0,98.912,49329,473,71,127
+Moderate,Germany,21,5.25,98.80600000000001,49258,520,77,145
+Moderate,Germany,22,5.5,98.722,49195,549,90,166
+Moderate,Germany,23,5.75,98.67,49136,571,94,199
+Moderate,Germany,24,6.0,98.616,49077,596,96,231
+Moderate,Germany,25,6.25,98.56,49020,616,104,260
+Moderate,Germany,26,6.5,98.516,48967,642,100,291
+Moderate,Germany,27,6.75,98.518,48930,649,92,329
+Moderate,Germany,28,7.0,98.506,48892,642,105,361
+Moderate,Germany,29,7.25,98.462,48835,665,104,396
+Moderate,Germany,30,7.5,98.41,48775,688,107,430
+Moderate,Germany,31,7.75,98.39,48734,683,122,461
+Moderate,Germany,32,8.0,98.346,48669,708,119,504
+Moderate,Germany,33,8.25,98.346,48633,709,118,540
+Moderate,Germany,34,8.5,98.32,48587,711,129,573
+Moderate,Germany,35,8.75,98.232,48508,730,154,608
+Moderate,Germany,36,9.0,98.236,48467,725,157,651
+Moderate,Germany,37,9.25,98.244,48425,723,155,697
+Moderate,Germany,38,9.5,98.286,48381,729,128,762
+Moderate,Germany,39,9.75,98.27,48332,732,133,803
+Moderate,Germany,40,10.0,98.272,48290,738,126,846
+Moderate,Germany,41,10.25,98.258,48237,753,118,892
+Moderate,Germany,42,10.5,98.274,48204,737,126,933
+Moderate,Germany,43,10.75,98.27,48160,746,119,975
+Moderate,Germany,44,11.0,98.25399999999999,48122,738,135,1005
+Moderate,Germany,45,11.25,98.26,48086,733,137,1044
+Moderate,Germany,46,11.5,98.21,48024,757,138,1081
+Moderate,Germany,47,11.75,98.2,47986,755,145,1114
+Moderate,Germany,48,12.0,98.212,47939,764,130,1167
+Moderate,Singapore,1,0.25,99.992,49996,4,0,0
+Moderate,Singapore,2,0.5,99.968,49984,16,0,0
+Moderate,Singapore,3,0.75,99.934,49967,31,2,0
+Moderate,Singapore,4,1.0,99.90599999999999,49953,41,6,0
+Moderate,Singapore,5,1.25,99.862,49931,61,8,0
+Moderate,Singapore,6,1.5,99.79599999999999,49896,92,10,2
+Moderate,Singapore,7,1.75,99.736,49861,116,16,7
+Moderate,Singapore,8,2.0,99.648,49814,158,18,10
+Moderate,Singapore,9,2.25,99.55199999999999,49761,201,23,15
+Moderate,Singapore,10,2.5,99.478,49718,227,34,21
+Moderate,Singapore,11,2.75,99.382,49660,267,42,31
+Moderate,Singapore,12,3.0,99.278,49602,310,51,37
+Moderate,Singapore,13,3.25,99.22,49549,346,44,61
+Moderate,Singapore,14,3.5,99.16,49505,368,52,75
+Moderate,Singapore,15,3.75,99.078,49441,403,58,98
+Moderate,Singapore,16,4.0,98.942,49365,446,83,106
+Moderate,Singapore,17,4.25,98.848,49292,478,98,132
+Moderate,Singapore,18,4.5,98.72999999999999,49212,521,114,153
+Moderate,Singapore,19,4.75,98.664,49139,557,111,193
+Moderate,Singapore,20,5.0,98.572,49053,592,122,233
+Moderate,Singapore,21,5.25,98.428,48951,647,139,263
+Moderate,Singapore,22,5.5,98.372,48880,667,147,306
+Moderate,Singapore,23,5.75,98.36399999999999,48822,671,147,360
+Moderate,Singapore,24,6.0,98.268,48729,719,147,405
+Moderate,Singapore,25,6.25,98.236,48664,735,147,454
+Moderate,Singapore,26,6.5,98.19200000000001,48599,754,150,497
+Moderate,Singapore,27,6.75,98.188,48547,754,152,547
+Moderate,Singapore,28,7.0,98.17,48488,764,151,597
+Moderate,Singapore,29,7.25,98.16,48431,767,153,649
+Moderate,Singapore,30,7.5,98.116,48362,789,153,696
+Moderate,Singapore,31,7.75,98.05,48282,808,167,743
+Moderate,Singapore,32,8.0,97.982,48204,831,178,787
+Moderate,Singapore,33,8.25,98.014,48153,823,170,854
+Moderate,Singapore,34,8.5,97.97,48083,830,185,902
+Moderate,Singapore,35,8.75,97.938,48014,833,198,955
+Moderate,Singapore,36,9.0,97.924,47946,850,188,1016
+Moderate,Singapore,37,9.25,97.912,47873,857,187,1083
+Moderate,Singapore,38,9.5,97.924,47824,842,196,1138
+Moderate,Singapore,39,9.75,97.92,47756,850,190,1204
+Moderate,Singapore,40,10.0,97.872,47675,880,184,1261
+Moderate,Singapore,41,10.25,97.86200000000001,47614,875,194,1317
+Moderate,Singapore,42,10.5,97.868,47563,849,217,1371
+Moderate,Singapore,43,10.75,97.85199999999999,47487,868,206,1439
+Moderate,Singapore,44,11.0,97.822,47410,873,216,1501
+Moderate,Singapore,45,11.25,97.832,47356,867,217,1560
+Moderate,Singapore,46,11.5,97.85000000000001,47286,879,196,1639
+Moderate,Singapore,47,11.75,97.884,47250,852,206,1692
+Moderate,Singapore,48,12.0,97.892,47190,858,196,1756
+Aggressive,US Baseline,1,0.25,99.982,49991,9,0,0
+Aggressive,US Baseline,2,0.5,99.938,49969,31,0,0
+Aggressive,US Baseline,3,0.75,99.892,49946,52,2,0
+Aggressive,US Baseline,4,1.0,99.804,49902,95,3,0
+Aggressive,US Baseline,5,1.25,99.708,49852,143,3,2
+Aggressive,US Baseline,6,1.5,99.56,49778,213,7,2
+Aggressive,US Baseline,7,1.75,99.388,49691,294,12,3
+Aggressive,US Baseline,8,2.0,99.21799999999999,49602,379,12,7
+Aggressive,US Baseline,9,2.25,99.054,49515,457,16,12
+Aggressive,US Baseline,10,2.5,98.872,49421,536,28,15
+Aggressive,US Baseline,11,2.75,98.642,49301,643,36,20
+Aggressive,US Baseline,12,3.0,98.424,49181,745,43,31
+Aggressive,US Baseline,13,3.25,98.194,49053,853,50,44
+Aggressive,US Baseline,14,3.5,97.962,48921,964,55,60
+Aggressive,US Baseline,15,3.75,97.69200000000001,48765,1091,63,81
+Aggressive,US Baseline,16,4.0,97.494,48646,1182,71,101
+Aggressive,US Baseline,17,4.25,97.19,48471,1317,88,124
+Aggressive,US Baseline,18,4.5,96.884,48287,1456,102,155
+Aggressive,US Baseline,19,4.75,96.612,48115,1587,107,191
+Aggressive,US Baseline,20,5.0,96.36200000000001,47947,1710,109,234
+Aggressive,US Baseline,21,5.25,96.07,47765,1849,116,270
+Aggressive,US Baseline,22,5.5,95.846,47610,1955,122,313
+Aggressive,US Baseline,23,5.75,95.57600000000001,47435,2078,134,353
+Aggressive,US Baseline,24,6.0,95.322,47266,2193,146,395
+Aggressive,US Baseline,25,6.25,95.094,47103,2303,150,444
+Aggressive,US Baseline,26,6.5,94.856,46933,2408,164,495
+Aggressive,US Baseline,27,6.75,94.726,46810,2473,164,553
+Aggressive,US Baseline,28,7.0,94.556,46666,2560,162,612
+Aggressive,US Baseline,29,7.25,94.372,46526,2643,171,660
+Aggressive,US Baseline,30,7.5,94.244,46392,2718,160,730
+Aggressive,US Baseline,31,7.75,94.106,46261,2795,152,792
+Aggressive,US Baseline,32,8.0,93.882,46103,2894,165,838
+Aggressive,US Baseline,33,8.25,93.738,45970,2977,154,899
+Aggressive,US Baseline,34,8.5,93.49,45795,3074,181,950
+Aggressive,US Baseline,35,8.75,93.326,45660,3130,207,1003
+Aggressive,US Baseline,36,9.0,93.188,45523,3181,225,1071
+Aggressive,US Baseline,37,9.25,93.078,45407,3223,238,1132
+Aggressive,US Baseline,38,9.5,93.07600000000001,45315,3231,231,1223
+Aggressive,US Baseline,39,9.75,92.882,45156,3312,247,1285
+Aggressive,US Baseline,40,10.0,92.74,44997,3385,245,1373
+Aggressive,US Baseline,41,10.25,92.672,44881,3417,247,1455
+Aggressive,US Baseline,42,10.5,92.548,44735,3482,244,1539
+Aggressive,US Baseline,43,10.75,92.444,44609,3532,246,1613
+Aggressive,US Baseline,44,11.0,92.352,44478,3587,237,1698
+Aggressive,US Baseline,45,11.25,92.17,44308,3659,256,1777
+Aggressive,US Baseline,46,11.5,92.136,44214,3692,240,1854
+Aggressive,US Baseline,47,11.75,92.106,44112,3726,221,1941
+Aggressive,US Baseline,48,12.0,92.012,43995,3765,229,2011
+Aggressive,Denmark,1,0.25,99.982,49991,9,0,0
+Aggressive,Denmark,2,0.5,99.94800000000001,49974,24,2,0
+Aggressive,Denmark,3,0.75,99.90599999999999,49953,42,5,0
+Aggressive,Denmark,4,1.0,99.83800000000001,49918,70,11,1
+Aggressive,Denmark,5,1.25,99.762,49877,102,17,4
+Aggressive,Denmark,6,1.5,99.656,49821,141,31,7
+Aggressive,Denmark,7,1.75,99.52,49746,197,43,14
+Aggressive,Denmark,8,2.0,99.402,49671,243,56,30
+Aggressive,Denmark,9,2.25,99.316,49609,279,63,49
+Aggressive,Denmark,10,2.5,99.18,49525,328,82,65
+Aggressive,Denmark,11,2.75,99.016,49421,391,101,87
+Aggressive,Denmark,12,3.0,98.872,49317,435,129,119
+Aggressive,Denmark,13,3.25,98.77,49226,472,143,159
+Aggressive,Denmark,14,3.5,98.668,49131,517,149,203
+Aggressive,Denmark,15,3.75,98.534,49013,581,152,254
+Aggressive,Denmark,16,4.0,98.438,48915,612,169,304
+Aggressive,Denmark,17,4.25,98.286,48789,655,202,354
+Aggressive,Denmark,18,4.5,98.148,48655,686,240,419
+Aggressive,Denmark,19,4.75,98.03,48527,729,256,488
+Aggressive,Denmark,20,5.0,97.96000000000001,48409,759,261,571
+Aggressive,Denmark,21,5.25,97.81800000000001,48250,832,259,659
+Aggressive,Denmark,22,5.5,97.71600000000001,48127,865,277,731
+Aggressive,Denmark,23,5.75,97.61999999999999,47990,903,287,820
+Aggressive,Denmark,24,6.0,97.514,47845,937,306,912
+Aggressive,Denmark,25,6.25,97.432,47726,935,349,990
+Aggressive,Denmark,26,6.5,97.43,47599,959,326,1116
+Aggressive,Denmark,27,6.75,97.38799999999999,47473,981,325,1221
+Aggressive,Denmark,28,7.0,97.37400000000001,47358,991,322,1329
+Aggressive,Denmark,29,7.25,97.348,47248,983,343,1426
+Aggressive,Denmark,30,7.5,97.30199999999999,47122,1002,347,1529
+Aggressive,Denmark,31,7.75,97.28,46998,1008,352,1642
+Aggressive,Denmark,32,8.0,97.25399999999999,46876,1018,355,1751
+Aggressive,Denmark,33,8.25,97.286,46767,1031,326,1876
+Aggressive,Denmark,34,8.5,97.226,46636,1036,351,1977
+Aggressive,Denmark,35,8.75,97.102,46471,1078,371,2080
+Aggressive,Denmark,36,9.0,97.126,46367,1054,383,2196
+Aggressive,Denmark,37,9.25,97.098,46241,1077,374,2308
+Aggressive,Denmark,38,9.5,97.122,46127,1081,358,2434
+Aggressive,Denmark,39,9.75,97.126,46020,1075,362,2543
+Aggressive,Denmark,40,10.0,97.152,45910,1093,331,2666
+Aggressive,Denmark,41,10.25,97.122,45792,1109,330,2769
+Aggressive,Denmark,42,10.5,97.138,45708,1072,359,2861
+Aggressive,Denmark,43,10.75,97.152,45612,1046,378,2964
+Aggressive,Denmark,44,11.0,97.102,45489,1061,388,3062
+Aggressive,Denmark,45,11.25,97.124,45374,1057,381,3188
+Aggressive,Denmark,46,11.5,97.13199999999999,45262,1050,384,3304
+Aggressive,Denmark,47,11.75,97.18,45160,1050,360,3430
+Aggressive,Denmark,48,12.0,97.19,45061,1051,354,3534
+Aggressive,Germany,1,0.25,99.98599999999999,49993,7,0,0
+Aggressive,Germany,2,0.5,99.954,49977,22,1,0
+Aggressive,Germany,3,0.75,99.91799999999999,49959,39,2,0
+Aggressive,Germany,4,1.0,99.87,49934,63,2,1
+Aggressive,Germany,5,1.25,99.816,49907,86,6,1
+Aggressive,Germany,6,1.5,99.724,49861,129,9,1
+Aggressive,Germany,7,1.75,99.646,49818,160,17,5
+Aggressive,Germany,8,2.0,99.536,49762,211,21,6
+Aggressive,Germany,9,2.25,99.436,49703,253,29,15
+Aggressive,Germany,10,2.5,99.328,49643,298,38,21
+Aggressive,Germany,11,2.75,99.22,49576,339,51,34
+Aggressive,Germany,12,3.0,99.09400000000001,49497,387,66,50
+Aggressive,Germany,13,3.25,98.99799999999999,49432,433,68,67
+Aggressive,Germany,14,3.5,98.938,49376,460,71,93
+Aggressive,Germany,15,3.75,98.83,49297,515,70,118
+Aggressive,Germany,16,4.0,98.682,49196,589,70,145
+Aggressive,Germany,17,4.25,98.54,49104,639,91,166
+Aggressive,Germany,18,4.5,98.414,49015,691,102,192
+Aggressive,Germany,19,4.75,98.26,48911,751,119,219
+Aggressive,Germany,20,5.0,98.128,48806,810,126,258
+Aggressive,Germany,21,5.25,97.98400000000001,48685,874,134,307
+Aggressive,Germany,22,5.5,97.882,48599,903,156,342
+Aggressive,Germany,23,5.75,97.82600000000001,48514,944,143,399
+Aggressive,Germany,24,6.0,97.708,48408,992,154,446
+Aggressive,Germany,25,6.25,97.65599999999999,48326,1010,162,502
+Aggressive,Germany,26,6.5,97.6,48241,1038,162,559
+Aggressive,Germany,27,6.75,97.52,48142,1077,163,618
+Aggressive,Germany,28,7.0,97.476,48071,1088,174,667
+Aggressive,Germany,29,7.25,97.426,47983,1119,168,730
+Aggressive,Germany,30,7.5,97.39,47905,1135,170,790
+Aggressive,Germany,31,7.75,97.344,47827,1150,178,845
+Aggressive,Germany,32,8.0,97.292,47758,1159,195,888
+Aggressive,Germany,33,8.25,97.272,47689,1151,213,947
+Aggressive,Germany,34,8.5,97.20400000000001,47586,1191,207,1016
+Aggressive,Germany,35,8.75,97.178,47496,1222,189,1093
+Aggressive,Germany,36,9.0,97.146,47413,1250,177,1160
+Aggressive,Germany,37,9.25,97.116,47343,1244,198,1215
+Aggressive,Germany,38,9.5,97.108,47277,1250,196,1277
+Aggressive,Germany,39,9.75,97.10600000000001,47205,1272,175,1348
+Aggressive,Germany,40,10.0,97.026,47114,1318,169,1399
+Aggressive,Germany,41,10.25,96.94800000000001,47024,1341,185,1450
+Aggressive,Germany,42,10.5,96.938,46962,1318,213,1507
+Aggressive,Germany,43,10.75,96.92399999999999,46890,1316,222,1572
+Aggressive,Germany,44,11.0,96.892,46824,1302,252,1622
+Aggressive,Germany,45,11.25,96.938,46776,1281,250,1693
+Aggressive,Germany,46,11.5,96.936,46686,1305,227,1782
+Aggressive,Germany,47,11.75,97.012,46635,1262,232,1871
+Aggressive,Germany,48,12.0,97.014,46575,1265,228,1932
+Aggressive,Singapore,1,0.25,99.982,49991,9,0,0
+Aggressive,Singapore,2,0.5,99.94800000000001,49974,24,2,0
+Aggressive,Singapore,3,0.75,99.90400000000001,49952,44,4,0
+Aggressive,Singapore,4,1.0,99.848,49922,69,7,2
+Aggressive,Singapore,5,1.25,99.766,49880,103,14,3
+Aggressive,Singapore,6,1.5,99.65,49818,159,16,7
+Aggressive,Singapore,7,1.75,99.544,49761,204,24,11
+Aggressive,Singapore,8,2.0,99.424,49696,250,38,16
+Aggressive,Singapore,9,2.25,99.328,49635,293,43,29
+Aggressive,Singapore,10,2.5,99.182,49550,358,51,41
+Aggressive,Singapore,11,2.75,99.016,49452,433,59,56
+Aggressive,Singapore,12,3.0,98.842,49348,492,87,73
+Aggressive,Singapore,13,3.25,98.69200000000001,49251,554,100,95
+Aggressive,Singapore,14,3.5,98.574,49150,598,115,137
+Aggressive,Singapore,15,3.75,98.368,49017,683,133,167
+Aggressive,Singapore,16,4.0,98.214,48893,761,132,214
+Aggressive,Singapore,17,4.25,98.064,48776,819,149,256
+Aggressive,Singapore,18,4.5,97.918,48650,883,158,309
+Aggressive,Singapore,19,4.75,97.736,48514,951,181,354
+Aggressive,Singapore,20,5.0,97.59,48381,1021,184,414
+Aggressive,Singapore,21,5.25,97.398,48227,1104,197,472
+Aggressive,Singapore,22,5.5,97.32,48129,1109,231,531
+Aggressive,Singapore,23,5.75,97.176,47997,1162,250,591
+Aggressive,Singapore,24,6.0,97.072,47857,1221,243,679
+Aggressive,Singapore,25,6.25,97.012,47748,1240,254,758
+Aggressive,Singapore,26,6.5,96.922,47621,1276,263,840
+Aggressive,Singapore,27,6.75,96.842,47498,1327,252,923
+Aggressive,Singapore,28,7.0,96.794,47393,1332,271,1004
+Aggressive,Singapore,29,7.25,96.76599999999999,47290,1327,290,1093
+Aggressive,Singapore,30,7.5,96.714,47167,1359,284,1190
+Aggressive,Singapore,31,7.75,96.70400000000001,47065,1370,278,1287
+Aggressive,Singapore,32,8.0,96.622,46940,1395,294,1371
+Aggressive,Singapore,33,8.25,96.58200000000001,46836,1427,282,1455
+Aggressive,Singapore,34,8.5,96.53399999999999,46708,1450,283,1559
+Aggressive,Singapore,35,8.75,96.482,46601,1454,305,1640
+Aggressive,Singapore,36,9.0,96.41,46488,1458,337,1717
+Aggressive,Singapore,37,9.25,96.428,46386,1458,328,1828
+Aggressive,Singapore,38,9.5,96.466,46287,1456,311,1946
+Aggressive,Singapore,39,9.75,96.464,46187,1454,314,2045
+Aggressive,Singapore,40,10.0,96.422,46062,1486,303,2149
+Aggressive,Singapore,41,10.25,96.30199999999999,45914,1553,296,2237
+Aggressive,Singapore,42,10.5,96.282,45817,1548,311,2324
+Aggressive,Singapore,43,10.75,96.232,45691,1563,321,2425
+Aggressive,Singapore,44,11.0,96.188,45589,1563,343,2505
+Aggressive,Singapore,45,11.25,96.19,45490,1538,367,2605
+Aggressive,Singapore,46,11.5,96.082,45338,1597,362,2703
+Aggressive,Singapore,47,11.75,96.108,45240,1579,367,2814
+Aggressive,Singapore,48,12.0,96.126,45142,1566,371,2921

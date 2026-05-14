@@ -1,0 +1,5 @@
+Scenario,Mean AIOE,Median AIOE,Std Dev AIOE,Pct in High Exposure,Newly High Exposure (n),Newly High Exposure (M workers)
+Baseline (2023),-0.0302,-0.1681,1.0118,25.0,,
+Conservative (2026-2027),0.2641,0.1333,0.9291,26.7,36.0,7.94
+Moderate (2028-2030),0.5536,0.4394,0.931,35.9,79.0,21.22
+Aggressive (2031-2035),0.9947,0.912,0.9126,47.6,151.0,33.33

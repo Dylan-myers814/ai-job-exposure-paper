@@ -1,0 +1,13 @@
+company,role_title,soc_code,n_cut_role,aioe_score,aioe_quartile,routine_cognitive,physical_manual,education_level,annual_median_wage,note
+Google / Alphabet,Recruiting Coordinator,13-1071,6000,1.36,Q4 (Highest),0.2388,0.1296,4.466909090909091,"$72,910",Recruiting org cut 50%; AI screens candidates
+Google / Alphabet,Program Manager,11-3021,3000,1.0599,Q4 (Highest),0.2234,0.1523,4.309712789460764,"$171,200",Management layers reduced; Gemini assists coordination
+Google / Alphabet,Technical Writer,27-3042,1500,1.184,Q4 (Highest),0.2551,0.1659,4.131977711319777,"$91,670",Documentation increasingly AI-generated
+Google / Alphabet,Data Analyst,15-2051,1500,,Unknown,,,,N/A,Junior analyst roles absorbed into AI workflows
+Microsoft,Customer Support Representative,43-4051,4000,0.9563,Q3,0.2217,0.1671,2.6916126569161265,"$42,830",Copilot deployed for tier-1 support; headcount not backfilled
+Microsoft,Marketing Coordinator,13-1161,1000,1.4268,Q4 (Highest),0.2458,0.1233,4.573057710750827,"$76,950",Content and campaign coordination shifted to AI tools
+Microsoft,Sales Operations Specialist,41-3091,3000,,Unknown,,,,N/A,Dynamics 365 Copilot automates pipeline management
+Microsoft,Consulting Program Manager,13-1082,2000,,Unknown,,,,N/A,Project coordination roles consolidated
+IBM,HR Specialist,13-1071,3000,1.36,Q4 (Highest),0.2388,0.1296,4.466909090909091,"$72,910",CEO explicitly cited HR as primary AI replacement target
+IBM,Finance Operations Analyst,13-2011,2000,1.482,Q4 (Highest),0.2513,0.1311,,"$81,680",Back-office finance automation via watsonx
+IBM,Administrative Assistant,43-6014,1500,1.0991,Q4 (Highest),0.2361,0.1732,2.7310094645828222,"$46,290",Executive support reduced as AI handles scheduling
+IBM,Data Entry Operator,43-9021,1300,0.3108,Q3,0.2523,0.1722,2.4093090909090904,"$39,850",Document processing automated; roles not backfilled

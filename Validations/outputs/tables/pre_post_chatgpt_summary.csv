@@ -1,0 +1,10 @@
+Exposure Group,Metric,Pre-ChatGPT Mean,Post-ChatGPT Mean,2025-2026 Mean,Pre-Post % Change,Pre-2025/26 % Change
+High AI Exposure,Job Openings Rate (%),7.217,4.792,4.393,-33.59,-39.13
+Medium AI Exposure,Job Openings Rate (%),7.107,4.755,4.16,-33.09,-41.47
+Low AI Exposure,Job Openings Rate (%),7.713,5.497,4.662,-28.74,-39.56
+High AI Exposure,Hires Rate (%),3.927,3.002,3.088,-23.54,-21.36
+Medium AI Exposure,Hires Rate (%),4.147,3.383,3.055,-18.41,-26.33
+Low AI Exposure,Hires Rate (%),5.34,4.528,4.238,-15.22,-20.63
+High AI Exposure,Unemployment Rate (%),4.063,4.313,4.707,6.15,15.84
+Medium AI Exposure,Unemployment Rate (%),3.43,3.432,3.574,0.07,4.19
+Low AI Exposure,Unemployment Rate (%),2.72,3.319,3.99,22.03,46.71

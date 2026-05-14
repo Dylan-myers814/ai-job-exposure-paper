@@ -1,0 +1,41 @@
+Scenario,Occupation Group,At-Risk (M workers)
+Conservative,Architecture & Engineering,0.14
+Conservative,Arts & Media,0.048
+Conservative,Business & Finance,0.398
+Conservative,Community & Social Service,1.0
+Conservative,Education,0.102
+Conservative,Healthcare Practitioners,0.814
+Conservative,Life & Physical Science,0.181
+Conservative,Management,4.426
+Conservative,Office & Admin Support,0.711
+Conservative,Production,0.009
+Conservative,Protective Service,0.111
+Moderate,Architecture & Engineering,0.766
+Moderate,Arts & Media,0.128
+Moderate,Business & Finance,0.406
+Moderate,Community & Social Service,1.576
+Moderate,Education,1.878
+Moderate,Healthcare Practitioners,4.831
+Moderate,Life & Physical Science,0.443
+Moderate,Management,4.657
+Moderate,Office & Admin Support,6.066
+Moderate,Production,0.015
+Moderate,Protective Service,0.159
+Moderate,Sales,0.294
+Aggressive,Architecture & Engineering,0.788
+Aggressive,Arts & Media,0.822
+Aggressive,Business & Finance,0.54
+Aggressive,Community & Social Service,1.637
+Aggressive,Construction,0.137
+Aggressive,Education,2.103
+Aggressive,Farming & Fishing,0.012
+Aggressive,Healthcare Practitioners,6.799
+Aggressive,Healthcare Support,0.937
+Aggressive,Life & Physical Science,0.63
+Aggressive,Management,5.005
+Aggressive,Office & Admin Support,8.101
+Aggressive,Personal Care,0.44
+Aggressive,Production,0.018
+Aggressive,Protective Service,2.387
+Aggressive,Sales,2.865
+Aggressive,Transportation,0.107

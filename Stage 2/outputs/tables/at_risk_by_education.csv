@@ -1,0 +1,13 @@
+Scenario,Education Group,At-Risk (M workers)
+Conservative,Bachelor's,1.051
+Conservative,Graduate Degree,0.141
+Conservative,No College,4.15
+Conservative,Some College / Associate,2.598
+Moderate,Bachelor's,1.745
+Moderate,Graduate Degree,0.155
+Moderate,No College,9.547
+Moderate,Some College / Associate,9.773
+Aggressive,Bachelor's,1.843
+Aggressive,Graduate Degree,0.155
+Aggressive,No College,16.789
+Aggressive,Some College / Associate,14.54

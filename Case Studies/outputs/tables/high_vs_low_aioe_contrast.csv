@@ -1,0 +1,36 @@
+group_type,industry_or_role,avg_aioe_quartile,ai_attributed_layoffs_documented,employment_trend,bls_projected_growth_pct,note
+High-AIOE displaced role,Google / Alphabet — Recruiting Coordinator,Q4 (Highest),6000,Corporate layoff (documented),,Recruiting org cut 50%; AI screens candidates
+High-AIOE displaced role,Google / Alphabet — Program Manager,Q4 (Highest),3000,Corporate layoff (documented),,Management layers reduced; Gemini assists coordination
+High-AIOE displaced role,Google / Alphabet — Technical Writer,Q4 (Highest),1500,Corporate layoff (documented),,Documentation increasingly AI-generated
+High-AIOE displaced role,Microsoft — Marketing Coordinator,Q4 (Highest),1000,Corporate layoff (documented),,Content and campaign coordination shifted to AI tools
+High-AIOE displaced role,Chegg — Instructional Designer,Q4 (Highest),400,Corporate layoff (documented),,Curriculum design AI-assisted; roles not backfilled
+High-AIOE displaced role,Shopify — Recruiting Coordinator,Q4 (Highest),600,Corporate layoff (documented),,Hiring paused; AI tools reduce recruiter headcount needed
+High-AIOE displaced role,Shopify — Marketing Analyst,Q4 (Highest),600,Corporate layoff (documented),,Campaign analytics increasingly automated
+High-AIOE displaced role,IBM — HR Specialist,Q4 (Highest),3000,Corporate layoff (documented),,CEO explicitly cited HR as primary AI replacement target
+High-AIOE displaced role,IBM — Finance Operations Analyst,Q4 (Highest),2000,Corporate layoff (documented),,Back-office finance automation via watsonx
+High-AIOE displaced role,IBM — Administrative Assistant,Q4 (Highest),1500,Corporate layoff (documented),,Executive support reduced as AI handles scheduling
+High-AIOE displaced role,Goldman Sachs — Junior Financial Analyst,Q4 (Highest),1600,Corporate layoff (documented),,Research report generation increasingly AI-assisted
+High-AIOE displaced role,Goldman Sachs — Equity Research Associate,Q4 (Highest),1000,Corporate layoff (documented),,Associate-level research roles consolidated
+High-AIOE displaced role,Citigroup — Bookkeeping and Accounting Clerk,Q4 (Highest),2500,Corporate layoff (documented),,Back-office financial processing automated
+High-AIOE displaced role,Intuit — Finance Operations Analyst,Q4 (Highest),900,Corporate layoff (documented),,Back-office finance automation via AI platform
+High-AIOE displaced role,Wayfair — Merchandising Analyst,Q4 (Highest),750,Corporate layoff (documented),,AI-driven product placement and pricing optimization
+High-AIOE displaced role,Macy's — Corporate Administrative Staff,Q4 (Highest),1500,Corporate layoff (documented),,Back-office consolidation - efficiency cited not AI explicitly
+High-AIOE displaced role,Macy's — Marketing Coordinator,Q4 (Highest),850,Corporate layoff (documented),,Corporate marketing layer reduced
+High-AIOE displaced role,UPS — Logistics Analyst,Q4 (Highest),4000,Corporate layoff (documented),,Predictive logistics AI replacing analyst functions
+High-AIOE displaced role,UPS — Administrative Assistant,Q4 (Highest),3000,Corporate layoff (documented),,Back-office administrative roles consolidated
+High-AIOE displaced role,FedEx — Logistics Analyst,Q4 (Highest),1000,Corporate layoff (documented),,AI route and network planning reducing analyst headcount
+High-AIOE displaced role,Sports Illustrated — Editor,Q4 (Highest),150,Corporate layoff (documented),,Editorial oversight reduced as AI content scales
+High-AIOE displaced role,Washington Post — News Analyst and Reporter,Q4 (Highest),150,Corporate layoff (documented),,Newsroom reduction - revenue cited; AI tools also deployed
+High-AIOE displaced role,Washington Post — Editor,Q4 (Highest),90,Corporate layoff (documented),,Editorial layer reduction
+High-AIOE displaced role,BT Group — Network Operations Technician,Q4 (Highest),15000,Corporate layoff (documented),,Network automation reducing manual monitoring requirements
+High-AIOE displaced role,BT Group — Administrative Support,Q4 (Highest),15000,Corporate layoff (documented),,Back-office consolidation via AI tools
+High-AIOE displaced role,Optum / UnitedHealth — Medical Secretary and Admin Assistant,Q4 (Highest),2000,Corporate layoff (documented),,AI handles prior authorization workflows previously done manually
+High-AIOE displaced role,Optum / UnitedHealth — Insurance Claims Processor,Q4 (Highest),2000,Corporate layoff (documented),,Claims adjudication increasingly automated via AI review
+High-AIOE displaced role,Duolingo — Instructional Designer,Q4 (Highest),200,Corporate layoff (documented),,Curriculum design AI-assisted
+High-AIOE displaced role,Salesforce — Customer Success Manager,Q4 (Highest),2500,Corporate layoff (documented),,AI reduces headcount needed per account
+High-AIOE displaced role,Salesforce — Marketing Analyst,Q4 (Highest),2000,Corporate layoff (documented),,Marketing Cloud AI handles campaign optimization
+Low-AIOE industry (contrast),Construction,Q1 (Lowest),0,"Labor shortage — 500,000+ unfilled positions (AGC 2025)",4.0,Physical/manual task intensity makes construction highly resistant to AI displacement
+Low-AIOE industry (contrast),Home Health Aides / Personal Care,Q1 (Lowest),0,BLS projects +22% employment growth 2023-2033,22.0,Aging demographics drive demand faster than AI could reduce it; high interpersonal task content
+Low-AIOE industry (contrast),"Skilled Trades (Electricians, Plumbers, HVAC)",Q1 (Lowest),0,Severe labor shortage; wages rising faster than white-collar roles,9.0,Moravec Paradox in action — physical dexterity and spatial reasoning remain beyond AI
+Low-AIOE industry (contrast),Food Service / Hospitality,Q2,0,Employment growing; kiosk automation complementing not replacing workers,5.0,Automation investment present but net employment still positive
+Low-AIOE industry (contrast),Registered Nurses,Q2,0,National nursing shortage; AI used as assistive tool not replacement,6.0,High interpersonal and physical task content; demand growth absorbs any efficiency gains

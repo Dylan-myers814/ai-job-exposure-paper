@@ -1,0 +1,4 @@
+scenario,best_policy,best_final_pct,worst_policy,worst_final_pct,policy_gap_ppts
+Conservative,Denmark,99.02,US Baseline,97.25,1.77
+Moderate,Denmark,98.36,US Baseline,95.27,3.09
+Aggressive,Denmark,97.19,US Baseline,92.01,5.18

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+
+# Downloaded raw data (rebuild with collect_data.py / pipeline scripts)
+**/data_cache/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+~$*
